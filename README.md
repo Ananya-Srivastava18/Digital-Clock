@@ -1,6 +1,6 @@
 # Digital Clocl
 
-[CLick Here To Open](file:///C:/Users/asus/OneDrive/Desktop/My%20Folder/Projects/Digital%20Clock/index.html)
+[CLick Here To Open !!](https://github.com/Ananya-Srivastava18/Digital-Clock/blob/main/index.html)
 
 # Objective :
 The objective of this project is to create a simple didgital clock using HTML , CSS and JAVASCRIPT.
