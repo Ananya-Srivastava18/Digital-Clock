@@ -1,4 +1,4 @@
-# Digital Clocl
+# Digital Clock
 
 [CLick Here To Open !!](https://github.com/Ananya-Srivastava18/Digital-Clock/blob/main/index.html)
 
